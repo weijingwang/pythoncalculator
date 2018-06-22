@@ -1,4 +1,3 @@
-#add
 print("add _ _ _ or sub _ _ _ or mul _ _ _ or div _ _ _")
 input_str = raw_input("Enter: ")#input
 
@@ -46,4 +45,3 @@ elif input_str[0] == "div":
 	 	print ("About {}").format(output_str)
 else:
 	print ("add _ _ _ or sub _ _ _ or mul _ _ _ or div _ _ _")
-
